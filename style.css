@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color:purple;
+    text-shadow: 2px 2px 5px hotpink;
+    font-family: 'lucida handwriting';
+    text-align: center;
+}
+h2 {
+    color: purple;
+    text-shadow: 2px 2px 5px hotpink;
+    font-family: 'lucida handwriting';
+    text-align: center;
+}
+h3 {
+    color: purple;
+    text-shadow: 2px 2px 5px hotpink;
+    font-family: 'lucida handwriting';
+    margin-left: 40px;
+}
+p {
+    color: hotpink;
+    text-align: center;
+}
+ul {
+    color: hotpink;
+    margin-left: 40px;
+}
+ol {
+    color: hotpink;
+    margin-left: 40px;
+}

@@ -20,3 +20,4 @@ https://aprilburris.github.io/week-1-checkpoint/
 | 8 | Updated home page | Added a link to a site I like | main |
 | 9 | Updated home page | Added images to home page | main |
 | 10 | Updated home page | Added more style to home page | main |
+| 11 | Updated README | Added live site to README | main |

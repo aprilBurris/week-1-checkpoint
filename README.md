@@ -1,5 +1,5 @@
 # week-1-checkpoint
-
+https://aprilburris.github.io/week-1-checkpoint/
 ## My setup
 - Operating system: Windows
 - Editor: VsCode

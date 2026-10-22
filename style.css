@@ -1,5 +1,8 @@
 body {
     background-color: lightblue;
+    background-image: url("images/boss.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1 {
     color:purple;

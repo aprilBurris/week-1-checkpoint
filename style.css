@@ -9,28 +9,50 @@ h1 {
     text-shadow: 2px 2px 5px hotpink;
     font-family: 'lucida handwriting';
     text-align: center;
+    font-size: 60px;
 }
 h2 {
     color: purple;
     text-shadow: 2px 2px 5px hotpink;
     font-family: 'lucida handwriting';
     text-align: center;
+    font-size: 40px;
 }
 h3 {
     color: purple;
     text-shadow: 2px 2px 5px hotpink;
     font-family: 'lucida handwriting';
-    margin-left: 40px;
+    margin-left: 150px;
+    font-size: 30px;
 }
 p {
     color: hotpink;
     text-align: center;
+    font-size: 25px;
 }
 ul {
     color: hotpink;
-    margin-left: 40px;
+    margin-left: 160px;
+    font-size: 25px;
 }
-ol {
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
     color: hotpink;
-    margin-left: 40px;
+    text-decoration: underline;
+}
+a:hover {
+    color: purple;
+    text-decoration: wavy underline;
+}
+a:visited {
+    color: hotpink;
+    text-decoration: underline;
+}
+a:active {
+    color: purple;
+    text-decoration: wavy underline;
 }

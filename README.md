@@ -19,3 +19,4 @@
 | 7 | Updated home page | Added my favorite food section and style | main |
 | 8 | Updated home page | Added a link to a site I like | main |
 | 9 | Updated home page | Added images to home page | main |
+| 10 | Updated home page | Added more style to home page | main |

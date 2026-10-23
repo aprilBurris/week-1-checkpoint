@@ -56,3 +56,8 @@ a:active {
     color: purple;
     text-decoration: wavy underline;
 }
+.photo-credit {
+    color: hotpink;
+    text-align: center;
+    font-size: 12px;
+}
